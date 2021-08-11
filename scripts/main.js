@@ -9,7 +9,7 @@
   const CANVASHEIGHT = 150
   const CANVASID = 'canvas'
 
-  let texts = ['MY DEAR', ' KEPLER', 'I HEARD', 'THERE', 'WAS', 'A', 'METEOR','SHOWER', 'THIS','FRIDAY', 'YOU MAY','HAVE','MISSED','IT','SO', 'I HAVE', 'PREPARED','ANOTHER','ONE','FOR YOU','YOU','MISSED','IT','HOWEVER','I','MISS','YOU', 'LAM']
+  let texts = ['MY DEAR', ' KEPLER', 'I HEARD', 'THERE', 'WAS', 'A', 'METEOR','SHOWER', 'THIS','FRIDAY', 'YOU MAY','HAVE','MISSED','IT','SO', 'I HAVE', 'PREPARED','ANOTHER','ONE','FOR YOU','Happy','Chinese','Valentine\'s',' Day','I','MISS','YOU', 'LAM']
 
   let canvas,
     ctx,
